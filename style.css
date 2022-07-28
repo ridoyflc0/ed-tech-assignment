@@ -35,6 +35,19 @@
 .card{
     margin-left: 20px;
 }
+.question{
+    text-align: center;
+}
+.accor{
+    margin-top: 8%;
+}
+
+
+
+
+
+
+
 @media only screen and (max-width: 767px) {
 	.navbar-nav {
 		text-align: center;

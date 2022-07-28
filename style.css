@@ -1,0 +1,15 @@
+
+.bt{
+    background-color: rgb(21, 169, 255);
+    color:aliceblue;
+    padding: 10px 25px;
+}
+.dark{
+    border: 1px solid red;
+    width: 100%;
+}
+.discover {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+

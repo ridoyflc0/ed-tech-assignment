@@ -41,10 +41,42 @@
 .accor{
     margin-top: 8%;
 }
-
-
-
-
+.companies{
+    text-align: center;
+    margin-top: 50px;
+}
+.companies img{
+    text-align: center;
+    margin-left: 30px;
+}
+.companies h1{
+    margin: 50px 0px;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
+.footer{
+    color:aliceblue;
+    background-color: black;
+    text-align: center;
+    height: 400px;
+    margin-top: 50px;
+    padding-top: 100px;
+}
+.footer i{
+    margin-left: 5px;
+}
+.navbar ul li a{
+    margin-right: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.logo{
+    font-weight: 800;
+    font-size: 25px;
+    
+}
 
 
 
@@ -65,7 +97,6 @@
         font-size: 10px;
     }
     .model button{
-        border: 2px solid red;
         display: block;
         float: left;
 
@@ -73,4 +104,8 @@
 .card{
     margin-left: 0px;
 }
-
+.companies img{
+    display: block;
+    margin: auto;
+    margin-top: 35px;
+}
